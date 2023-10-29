@@ -4187,6 +4187,11 @@ fieldset {
 	margin-bottom: .4em;
 }
 
+.inv-c .a42-form fieldset {
+	border: 1px solid #FF0;
+	margin-bottom: .4em;
+}
+
 .a42-form legend,
 .a42-form .a42-form_legend {
 	display: block;

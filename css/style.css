@@ -1994,7 +1994,7 @@ main {
 
 }
 
-@media screen and (max-width: 49.99em) {
+@media screen and (max-width: 49.99rem) {
 
 #screen {
 	margin: 0;
@@ -2047,7 +2047,7 @@ main {
 #wrapper,
 .a42-main,
 .slide {
-	min-height: calc(100vh - 6em);
+	min-height: calc(100vh - 6rem);
 }
 
 /**/

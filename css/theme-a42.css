@@ -2402,6 +2402,11 @@ blockquote cite {
 	font-weight: bold;
 	font-size: 0.875em; /* 14px */
 	line-height: 1.2;
+	border-bottom: 4px solid #962E3F;
+}
+
+.inv-c .breadcrumb {
+	border-bottom: 4px solid #FFFF00;;
 }
 
 /*.high-c .breadcrumb{

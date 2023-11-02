@@ -866,6 +866,12 @@ main {
 
 #wrappernav { 
     background-color: #aa9f96;/*line-height: 0;*/
+	border-top: 4px solid #962E3F;
+}
+
+.inv-c #wrappernav { 
+    
+	border-top: 1px solid #FFFF00;
 }
 
 .modeplan main {

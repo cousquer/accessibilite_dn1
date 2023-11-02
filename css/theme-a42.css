@@ -5754,4 +5754,7 @@ p.index {
 }
 
 }
+strong, li strong {
+	font-weight: bold !important;
+}
 
